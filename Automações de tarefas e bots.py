@@ -11,14 +11,13 @@ py.press("enter")
 time.sleep(10)#faz 3seg de pausa para entrar no site
 
 py.click(x=801, y=534) #uso a posição (que foi feita com o auxiliar) para fazer o bot clicar na parte do email
-py.typewrite("francislaine@gmail.com", interval=0.15)#aqui vc põe o seu loguin
-time.sleep(1)   
+py.typewrite("SEU EMAIL", interval=0.15)#aqui vc põe o seu loguin   
 py.press("tab")
 #py.click(x=812, y=635)#usar a posiçao novamente, mas agora para colocar a senha
 #mas irei usar o tab
-py.write("francislaine123", interval=0.1)#aqui vc põe o seu loguin
+py.write("SUA SENHA", interval=0.1)#aqui vc põe o seu loguin
 py.press("enter")
-time.sleep(3)
+time.sleep(2)
 
 
 import pandas as pd
