@@ -31,8 +31,12 @@ Em vez de manipular um formulário web no navegador da propria Hashtag Programa�
 ---
 
 ## 📁 Estrutura de Pastas
-├── AULA 1/
-│   ├── automacao.py      # Script principal do bot
-│   └── produtos.csv      # Base de dados de produtos
-├── app/                  # Projeto do aplicativo Fsystem no Android Studio
-└── README.md             # Documentação do projeto
+ ├── AULA 1/
+ 
+ │   ├── automacao.py      # Script principal do bot
+ 
+ │   └── produtos.csv      # Base de dados de produtos
+ 
+ ├── app/                  # Projeto do aplicativo Fsystem no Android Studio
+ 
+ └── README.md             # Documentação do projeto
